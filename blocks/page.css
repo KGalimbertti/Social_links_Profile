@@ -1,0 +1,14 @@
+* {
+  scroll-behavior: smooth;
+}
+
+.page {
+  max-width: 1280px;
+  margin: 0 auto;
+  font-family: "Inter", sans-serif;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}

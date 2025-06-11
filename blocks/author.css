@@ -1,0 +1,19 @@
+.author {
+  text-align: center;
+}
+
+.author__name {
+  font-size: 40px;
+  font-weight: 900;
+}
+
+.author__country {
+  font-size: 30px;
+  font-weight: 400;
+  color: black;
+}
+
+.author__occupation {
+  font-size: 25px;
+  font-weight: 700;
+}

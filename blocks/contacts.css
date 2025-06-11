@@ -1,0 +1,28 @@
+.contacts {
+  display: grid;
+  grid-template-columns: 1;
+  grid-template-rows: 1;
+  gap: 15px;
+}
+
+.contacts__button {
+  width: 95%;
+  justify-self: center;
+  align-self: center;
+  color: #ededed;
+  background-color: rgb(43, 36, 36);
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 12px rgb(255, 255, 255);
+  letter-spacing: 2px;
+  transition: 0.3s;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.contacts__button:hover {
+  background-color: white;
+  color: black;
+}
